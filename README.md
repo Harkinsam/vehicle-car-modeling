@@ -42,4 +42,4 @@ In the `Main` class, an instance of the `Outlander` class is created, and variou
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
